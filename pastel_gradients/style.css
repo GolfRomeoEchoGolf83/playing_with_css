@@ -61,4 +61,6 @@ header {
     background: linear-gradient(90deg, #faf0cd, #fab397);
 }
 /* Gradient 8 */
-#g8 {}
+#g8 {
+    background: linear-gradient(90deg, #cfecd0, #a0cea7, #9ec0db);
+}
