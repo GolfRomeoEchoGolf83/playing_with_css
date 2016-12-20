@@ -34,10 +34,12 @@ header {
 
 /* Gradient 1 */
 #g1 {
-    background: linear-gradient(90deg, #cfecd0, #ffc5ca);
+    background: linear-gradient(90deg, #69b7eb, #f4d6db);
 }
 /* Gradient 2 */
-#g2 {}
+#g2 {
+    background: linear-gradient(90deg, #cfecd0, #ffc5ca);
+}
 /* Gradient 3 */
 #g3 {}
 /* Gradient 4 */
