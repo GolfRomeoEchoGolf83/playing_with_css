@@ -49,7 +49,9 @@ header {
     background: linear-gradient(90deg, #ee5c87, #f1a4b5, #d587b3);
 }
 /* Gradient 5 */
-#g5 {}
+#g5 {
+    background: linear-gradient(90deg, #b9deed, #efefef);
+}
 /* Gradient 6 */
 #g6 {}
 /* Gradient 7 */
