@@ -1,5 +1,5 @@
 body {
-    background: #faf5e6;
+    background: white;
 }
 
 h1, p {
@@ -22,14 +22,18 @@ header {
 
 .box {
     height: 100px;
-    margin-bottom: 20px;
-    border-radius: 15px;
+    margin-bottom: 1px;
+
 }
 
 .box p {
     line-height: 100px;
     font-size: 2em;
     color: white;
+}
+
+p {
+    margin: 0px;
 }
 
 /* Gradient 1 */
