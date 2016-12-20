@@ -57,6 +57,8 @@ header {
     background: linear-gradient(90deg, #aea4e3, #d3ffe8);
 }
 /* Gradient 7 */
-#g7 {}
+#g7 {
+    background: linear-gradient(90deg, #faf0cd, #fab397);
+}
 /* Gradient 8 */
 #g8 {}
