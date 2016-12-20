@@ -33,7 +33,9 @@ header {
 }
 
 /* Gradient 1 */
-#g1 {}
+#g1 {
+    background: linear-gradient(90deg, #cfecd0, #ffc5ca);
+}
 /* Gradient 2 */
 #g2 {}
 /* Gradient 3 */
