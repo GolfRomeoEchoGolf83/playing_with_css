@@ -32,7 +32,10 @@ article {
     text-align: center;
 }
 
-.fancy span {}
+.fancy span {
+    display: inline-block;
+    position: relative;
+}
 
 .fancy span:before,
 .fancy span:after {}
