@@ -47,9 +47,15 @@ article {
     width: 600px;
 }
 
-.fancy span:before {}
+.fancy span:before {
+    right: 100%;
+    margin-right: 15px;
+}
 
-.fancy span:after {}
+.fancy span:after {
+    left: 100%;
+    margin-left: 15px;
+}
 
 .amp {}
 
