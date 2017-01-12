@@ -16,4 +16,4 @@ Those might be inspired from CodePens as well as website.
 ## 2. Creating a static landing page with double lines title
 
 ![screenshot]
-()
+(http://i.imgur.com/dQgmP4B.png)
