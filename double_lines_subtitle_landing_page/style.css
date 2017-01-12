@@ -57,9 +57,13 @@ article {
     margin-left: 15px;
 }
 
-.amp {}
+.amp {
+    margin: 0 0 0.25em 0;
+}
 
-.amp span {}
+.amp span {
+    font-size: 0.7em;
+}
 
 .copy {}
 
