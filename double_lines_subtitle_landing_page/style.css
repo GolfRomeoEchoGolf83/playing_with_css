@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Cinzel+Decorative:400,900);
+
+body {}
+
+h1 {}
+
+.embiggen {}
+
+article {}
+
+.subtitle {}
+
+.fancy {}
+
+.fancy span {}
+
+.fancy span:before,
+.fancy span:after {}
+
+.fancy span:before {}
+
+.fancy span:after {}
+
+.amp {}
+
+.amp span {}
+
+.copy {}
+
+.copy p {}
