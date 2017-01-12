@@ -65,6 +65,13 @@ article {
     font-size: 0.7em;
 }
 
-.copy {}
+.copy {
+    font: 1em Georgia, Serif;
+    text-align: justify;
+    -moz-column-count: z;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+}
 
 .copy p {}
