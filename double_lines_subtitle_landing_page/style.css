@@ -12,7 +12,10 @@ h1 {
     text-align: center;
 }
 
-.embiggen {}
+.embiggen {
+    font-size: 4em;
+    text-shadow: 0 0 40px #ffbab3;
+}
 
 article {}
 
