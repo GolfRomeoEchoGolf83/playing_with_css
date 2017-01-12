@@ -27,7 +27,10 @@ article {
     margin: 0 0 2em 0;
 }
 
-.fancy {}
+.fancy {
+    line-height: 0.5;
+    text-align: center;
+}
 
 .fancy span {}
 
