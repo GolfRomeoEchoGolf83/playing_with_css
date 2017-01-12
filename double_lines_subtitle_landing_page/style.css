@@ -74,4 +74,6 @@ article {
     -webkit-column-gap: 20px;
 }
 
-.copy p {}
+.copy p {
+    margin: 0 0 1em 0;
+}
