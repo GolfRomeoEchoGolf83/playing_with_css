@@ -17,7 +17,11 @@ h1 {
     text-shadow: 0 0 40px #ffbab3;
 }
 
-article {}
+article {
+    max-width: 600px;
+    overflow: hidden;
+    margin: 0 auto 50px;
+}
 
 .subtitle {}
 
