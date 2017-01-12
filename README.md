@@ -5,7 +5,7 @@ The project is intended to give some CSS inputs.
 Those might be inspired from CodePens as well as website.
 
 - [x] 1. Creating a pastel gradient page 
-- [] 2. Creating a static landing page with double lines title
+- [x] 2. Creating a static landing page with double lines title
 - [] Creating a pantone page
 
 ## 1. Creating a pastel gradient page
