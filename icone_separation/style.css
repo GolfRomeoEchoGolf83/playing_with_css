@@ -1,0 +1,59 @@
+.explosif {
+  display: inline-block;
+  position: relative;
+  box-sizing: border-box;
+  width: 20em;
+  height: 20em;
+  line-height: 0;
+  border-radius: 100%;
+  transition: width .5s, height .5s;
+  overflow: hidden;
+}
+
+.explosif > *:first-child {
+  display: block;
+  position: absolute;
+  top: 60%;
+  left: 49%;
+  transform: translateY(-50%) translateX(-50%);
+  font-size: 5em;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  background:  #c00;
+  line-height: normal;
+  transition: min-width .5s, min-height .5s, top .5s;
+  min-width: 80%;
+  min-height: 80%;
+}
+
+.explosif > *:last-child {
+  width: 150%;
+  height: 150%;
+  margin: -5% 0 0 -5%;
+}
+
+.explosif > *:last-child span {
+  display: inline-block;
+  float: left;
+  background: #c00;
+  width: 15%;
+  height: 15%;
+  margin: 0;
+  transition: margin .25s;
+  transition-timing-function: ease-in;
+}
+
+.explosif:hover {
+  width: 25em;
+  height: 25em;
+}
+
+.explosif:hover > *:first-child {
+  top: 49%;
+  min-width: 50%;
+  min-height: 50%;
+}
+
+.explosif:hover > *:last-child span {
+  margin: 1.5%
+}
