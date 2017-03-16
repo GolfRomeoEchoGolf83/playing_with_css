@@ -11,15 +11,12 @@ Those might be inspired from CodePens as well as website.
 
 ## 1. Creating a pastel gradient page
 
-![screenshot]
-(http://i.imgur.com/jXVTfnt.png)
+![screenshot](http://i.imgur.com/jXVTfnt.png)
 
 ## 2. Creating a static landing page with double lines title
 
-![screenshot]
-(http://i.imgur.com/dQgmP4B.png)
+![screenshot](http://i.imgur.com/dQgmP4B.png)
 
 ## 3. Creating a separation effect on icons
 
-![screenshot]
-(http://i.imgur.com/MlfEcdW.png)
+![screenshot](http://i.imgur.com/MlfEcdW.png)
