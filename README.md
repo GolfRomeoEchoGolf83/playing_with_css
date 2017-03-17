@@ -7,7 +7,8 @@ Those might be inspired from CodePens as well as website.
 - [x] 1. Creating a pastel gradient page 
 - [x] 2. Creating a static landing page with double lines title
 - [x] 3. Creating a separation effect on icons
-- [] Creating a pantone page
+- [] 4. Creating a pantone page
+- [x] 5. Draw a koala in Vanilla CSS 
 
 ## 1. Creating a pastel gradient page
 
@@ -20,3 +21,8 @@ Those might be inspired from CodePens as well as website.
 ## 3. Creating a separation effect on icons
 
 ![screenshot](http://i.imgur.com/MlfEcdW.png)
+
+## 4. Creating a pantone page
+
+## 5. Drawing a koala in pure CSS
+![screenshot](http://i.imgur.com/A4dcY2Z.png)
