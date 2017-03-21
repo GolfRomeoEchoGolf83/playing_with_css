@@ -1,0 +1,65 @@
+// colors 
+$white: #FFFFFF;
+$black: #000000;
+$grey: #DCDDDD;
+$dark-grey: #DAE2DF;
+// shapes
+$circle: 50px;
+$rounded-square: 15px;
+$rounded-rectangle: 15px;
+body {
+    background: #B5C6E7;
+}
+
+.frame {
+    width: 400px;
+    height: 550px;
+    border-radius: $rounded-rectangle;
+    background: $white;
+    position: relative;
+    left: 450px;
+    z-index: 1;
+}
+
+.camera {
+    width: 10px;
+    height: 10px;
+    background: $black;
+    border-radius: $circle;
+    position: relative;
+    left: 200px;
+    top: 10px;
+    z-index: 2;
+}
+
+.inner-frame {
+    width: 350px;
+    height: 425px;
+    background: $black;
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    z-index: 3;
+}
+
+.button {
+    width: 60px;
+    height: 60px;
+    background: $dark-grey;
+    border-radius: $circle;
+    position: absolute;
+    top: 440px;
+    left: 150px;
+    z-index: 4;
+}
+
+.inner-button {
+    width: 30px;
+    height: 30px;
+    background: $white;
+    border-radius: $rounded-square;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    z-index: 5;
+}
