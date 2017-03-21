@@ -1,12 +1,16 @@
-// colors 
-$white: #FFFFFF;
-$black: #000000;
-$grey: #DCDDDD;
-$dark-grey: #DAE2DF;
-// shapes
-$circle: 50px;
-$rounded-square: 15px;
-$rounded-rectangle: 15px;
+/* colors 
+:root {
+    --white: #FFFFFF;
+    --black: #000000;
+    --grey: #DCDDDD;
+    --dark-grey: #DAE2DF;
+    // shapes
+    --circle: 50px;
+    --rounded-square: 15px;
+    --rounded-rectangle: 15px;
+}
+*/
+
 body {
     background: #B5C6E7;
 }
@@ -14,8 +18,10 @@ body {
 .frame {
     width: 400px;
     height: 550px;
-    border-radius: $rounded-rectangle;
-    background: $white;
+    border-radius: 15px;
+    /*var(--rounded-rectangle);*/
+    background: white;
+    /*var(--white);*/
     position: relative;
     left: 450px;
     z-index: 1;
@@ -24,8 +30,10 @@ body {
 .camera {
     width: 10px;
     height: 10px;
-    background: $black;
-    border-radius: $circle;
+    background: black;
+    /*var(--black);*/
+    border-radius: 50px;
+    /*var(--circle);*/
     position: relative;
     left: 200px;
     top: 10px;
@@ -35,7 +43,8 @@ body {
 .inner-frame {
     width: 350px;
     height: 425px;
-    background: $black;
+    background: black;
+    /*var(--black);*/
     position: absolute;
     left: 25px;
     top: 30px;
@@ -45,8 +54,10 @@ body {
 .button {
     width: 60px;
     height: 60px;
-    background: $dark-grey;
-    border-radius: $circle;
+    background: #DAE2DF;
+    /*var(--dark-grey);*/
+    border-radius: 50px;
+    /*var(--circle);*/
     position: absolute;
     top: 440px;
     left: 150px;
@@ -56,8 +67,10 @@ body {
 .inner-button {
     width: 30px;
     height: 30px;
-    background: $white;
-    border-radius: $rounded-square;
+    background: white;
+    /*var(--white);*/
+    border-radius: 15px;
+    /*var(--rounded-square);*/
     position: absolute;
     left: 15px;
     top: 15px;
