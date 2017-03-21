@@ -26,3 +26,6 @@ Those might be inspired from CodePens as well as website.
 
 ## 5. Drawing a koala in pure CSS
 ![screenshot](http://i.imgur.com/A4dcY2Z.png)
+
+## 6. Drawing an iPad in pure CSS
+![screenshot](http://i.imgur.com/NtsWWF7.png)
